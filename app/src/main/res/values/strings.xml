@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Friday</string>
+    <string name="a11y_desc">Lets Friday press Home, Back, Recents, open notifications and take screenshots when you ask by voice.</string>
+</resources>
